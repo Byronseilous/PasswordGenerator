@@ -19,7 +19,7 @@ It is Compatible with .NET Core, .NET Framework and more. See the below chart:
 
 ## Basic usage
 
-See examples below or try them out now in your browser using [Dotnetfiddle](https://dotnetfiddle.net/Q0hMlU)
+See examples below 
 
 ```javascript
 // By default, all characters available for use and a length of 16
